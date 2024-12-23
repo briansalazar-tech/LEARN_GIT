@@ -1,1 +1,1 @@
-text bunch2.txt bunch3.txt
+Deleted tesxt from bunch1
